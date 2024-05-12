@@ -1,1 +1,1 @@
-Objevetive: Create Recipe Website.
+Objective: Create Recipe Website.
